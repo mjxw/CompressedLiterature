@@ -1,6 +1,3 @@
-// Matthew Wu 
-// TCSS 342 - Compressed Literature
-
 package model;
 
 import java.util.HashMap;
